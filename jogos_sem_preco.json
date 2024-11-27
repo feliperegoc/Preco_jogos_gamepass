@@ -1,91 +1,36 @@
 [
     {
-        "Nome": "Alice: Madness Returns™",
-        "Preço": "100000000",
-        "URL": ""
-    },
-    {
-        "Nome": "Anthem™",
-        "Preço": "100000000",
-        "URL": ""
-    },
-    {
         "Nome": "Battlefield 3 Premium Edition",
         "Preço": "100000000",
         "URL": ""
     },
     {
-        "Nome": "Crysis 3",
+        "Nome": "Battlefield 4™ Premium Edition",
         "Preço": "100000000",
         "URL": ""
     },
     {
-        "Nome": "Crysis® 2 Maximum Edition",
+        "Nome": "Battlefield™ 1 Revolution",
         "Preço": "100000000",
         "URL": ""
     },
     {
-        "Nome": "Dragon Age™ II",
+        "Nome": "Battlefield™ 2042",
         "Preço": "100000000",
         "URL": ""
     },
     {
-        "Nome": "Dragon Age™: Inquisition - Edição Jogo do Ano",
-        "Preço": "100000000",
-        "URL": ""
-    },
-    {
-        "Nome": "Dragon Age™: Origins - Ultimate Edition",
-        "Preço": "100000000",
-        "URL": ""
-    },
-    {
-        "Nome": "Dungeon Keeper™",
-        "Preço": "100000000",
-        "URL": ""
-    },
-    {
-        "Nome": "Edição Deluxe do Mass Effect™: Andromeda",
-        "Preço": "100000000",
-        "URL": ""
-    },
-    {
-        "Nome": "Fe",
-        "Preço": "100000000",
-        "URL": ""
-    },
-    {
-        "Nome": "Lost in Random™",
-        "Preço": "100000000",
-        "URL": ""
-    },
-    {
-        "Nome": "Mass Effect 2 (Edição 2010)",
-        "Preço": "100000000",
-        "URL": ""
-    },
-    {
-        "Nome": "Mass Effect 3 (Edição 2012)",
-        "Preço": "100000000",
-        "URL": ""
-    },
-    {
-        "Nome": "Mass Effect™",
-        "Preço": "100000000",
-        "URL": ""
-    },
-    {
-        "Nome": "Mass Effect™ Legendary Edition",
-        "Preço": "100000000",
-        "URL": ""
-    },
-    {
-        "Nome": "Medal of Honor Airborne™",
+        "Nome": "Battlefield™ V Edição Ano 2",
         "Preço": "100000000",
         "URL": ""
     },
     {
         "Nome": "Need for Speed™ Edição Deluxe",
+        "Preço": "100000000",
+        "URL": ""
+    },
+    {
+        "Nome": "Need for Speed™ Heat Edição Deluxe",
         "Preço": "100000000",
         "URL": ""
     },
@@ -115,17 +60,17 @@
         "URL": ""
     },
     {
-        "Nome": "Peggle®",
+        "Nome": "NINJA GAIDEN Σ",
         "Preço": "100000000",
-        "URL": ""
+        "URL": "https://www.xbox.com/pt-br/games/store/ninja-gaiden-/9NZ5QW71X49G"
     },
     {
-        "Nome": "Peggle® Nights",
+        "Nome": "NINJA GAIDEN Σ2",
         "Preço": "100000000",
-        "URL": ""
+        "URL": "https://www.xbox.com/pt-br/games/store/ninja-gaiden-2/9PGSC3PW4N8Z"
     },
     {
-        "Nome": "Plants vs. Zombies™ Game of the Year Edition",
+        "Nome": "SPORE™",
         "Preço": "100000000",
         "URL": ""
     },
@@ -135,22 +80,7 @@
         "URL": ""
     },
     {
-        "Nome": "STAR WARS™ Battlefront™ Ultimate Edition",
-        "Preço": "100000000",
-        "URL": ""
-    },
-    {
-        "Nome": "STAR WARS™: Squadrons",
-        "Preço": "100000000",
-        "URL": ""
-    },
-    {
-        "Nome": "The Saboteur™",
-        "Preço": "100000000",
-        "URL": ""
-    },
-    {
-        "Nome": "Unravel",
+        "Nome": "VALORANT PC",
         "Preço": "100000000",
         "URL": ""
     },
